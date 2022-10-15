@@ -1,9 +1,14 @@
 {
   "recommendations": [
     "eamodio.gitlens",
-    "oderwat.indent-rainbow",
+    "fabiospampinato.vscode-open-in-github",
+    "formulahendry.auto-rename-tag",
     "mechatroner.rainbow-csv",
     "mhutchie.git-graph",
-    "oderwat.indent-rainbow"
+    "mosapride.zenkaku",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "oderwat.indent-rainbow",
+    "shardulm94.trailing-spaces",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
