@@ -1,12 +1,16 @@
 {
   "recommendations": [
     "eamodio.gitlens",
+    "esbenp.prettier-vscode",
     "fabiospampinato.vscode-open-in-github",
     "formulahendry.auto-rename-tag",
+    "hoovercj.vscode-power-mode",
+    "KnisterPeter.vscode-commitizen",
     "mechatroner.rainbow-csv",
     "mhutchie.git-graph",
     "mosapride.zenkaku",
     "ms-vscode-remote.vscode-remote-extensionpack",
+    "naumovs.color-highlight",
     "oderwat.indent-rainbow",
     "shardulm94.trailing-spaces",
     "streetsidesoftware.code-spell-checker"
