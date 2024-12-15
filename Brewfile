@@ -1,6 +1,4 @@
 tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/core"
 brew "awscli"
 brew "coreutils" # GNU/Linux core utilities
 brew "fzf" # Command-line fuzzy finder
@@ -9,7 +7,7 @@ brew "jq"
 brew "nodeenv"
 brew "tfenv"
 cask "claude"
-cask "clipy" # Clipboard manager
+# cask "clipy" # Clipboard manager
 cask "cursor"
 cask "dbeaver-community"
 cask "devtoys"
@@ -25,7 +23,7 @@ cask "netnewswire"
 cask "notion"
 cask "obsidian"
 cask "slack"
-cask "snip"
+# cask "snip"
 cask "raycast"
 cask "typora"
 cask "visual-studio-code"
