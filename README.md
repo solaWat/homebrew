@@ -22,6 +22,7 @@
 1. open vscode
 1. extensions install: `.vscode/extensions.json`
 
-### bin
+### bin/.zshrc
 
-1. Apply bin folder contents to local
+1. Apply .zshrc contents to local, appropriately.
+    `$ source ~/.zshrc`
