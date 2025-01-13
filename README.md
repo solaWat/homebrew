@@ -17,6 +17,8 @@
 
 <https://kakakakakku.hatenablog.com/entry/2020/09/17/124653>
 
+export: `$ brew bundle dump`
+
 ### vscode
 
 1. open vscode
